@@ -6,3 +6,4 @@ This is the article based on ai
 - [magora weird AI applications](https://magora-systems.com/10-weirdest-uses-of-artificial-intelligence/)
 - [AI in art](https://deepart.io/)
 - [AI with image dreaming](https://deepdreamgenerator.com/)
+- [Machines judge humans in a beauty contest](http://beauty.ai/)
